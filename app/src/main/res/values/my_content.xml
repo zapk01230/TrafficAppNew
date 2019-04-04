@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="title">
+        <item>ห้ามเลี้ยวซ้าย</item>
+        <item>ห้ามเลี้ยวขวา</item>
+        <item>ให้เดินรถทางเดียวไปข้างหน้า</item>
+        <item>ให้เลี้ยวขวา</item>
+        <item>ให้เลี้ยวซ้าย</item>
+        <item>รูป 6</item>
+        <item>รูป 7</item>
+        <item>รูป 8</item>
+        <item>หยุด</item>
+        <item>ห้ามรถสูงเกินกำหนด</item>
+        <item>ให้เลี้ยวซ้ายหรือเลี้ยวขวา</item>
+        <item>ห้ามกลับรถไปทางขวา</item>
+        <item>ห้ามจอดรถ</item>
+        <item>ให้รถสวนทางมาก่อน</item>
+        <item>ห้ามแซง</item>
+        <item>รูป 16</item>
+        <item>หยุดตรวจ</item>
+        <item>จำกัดความเร็ว</item>
+        <item>ห้ามรถกว้างเกินกำหนด</item>
+        <item>รูป 20</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>ห้ามมิให้เลี้ยวรถไปทางซ้าย</item>
+        <item>ห้ามมิให้เลี้ยวรถไปทางขวา</item>
+        <item>ให้ขับรถตรงไปตามทิศทางที่ป้ายกำหนด</item>
+        <item>ให้ขับรถเลี้ยวไปทางขวาแต่ทางเดียว</item>
+        <item>ให้ขับรถเลี้ยวไปทางขวาแต่ทางเดียว</item>
+        <item>is simply dummy text of the printing and typesetting industry</item>
+        <item>Contrary to popular belief, Lorem Ipsum is not simply random text</item>
+        <item>it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</item>
+        <item>รถทุกชนิดต้องหยุด เมื่อเห็นว่าปลอดภัยแล้ว จึงให้เคลื่อนรถต่อไปได้ด้วยความระมัดระวัง</item>
+        <item>ห้ามมิให้รถทุกชนิดที่มีความสูงของรถรวมทั้งของที่บรรทุกเกินกว่ากำหนดเป็น "เมตร" ตาม จำนวนเลข ในเครื่องหมายเข้าไปในเขตทางหรืออุโมงค์ที่ติดตั้งป้าย</item>
+        <item>ให้ขับรถไปทางซ้าย หรือไปทางขวา</item>
+        <item>ห้ามมิให้กลับรถไปทางขวาไม่ว่าด้วยวิธีใดๆ  ในเขตทางที่ติดตั้งป้าย</item>
+        <item>ห้ามมิให้จอดรถทุกชนิดระหว่างแนวนั้น เว้นแต่การรับ-ส่งคน หรือสิ่งของชั่วขณะซึ่งต้องกระทำโดยมิชักช้า</item>
+        <item>ให้ผู้ขับรถทุกชนิดหยุดรถตรงป้าย เพื่อให้รถที่กำลังแล่นสวนทางมาก่อน ถ้ามีรถข้างหน้าหยุดรออยู่ก่อนก็ให้หยุดรถรอถัดต่อกันมาตามลำดับ เมื่อรถที่สวนทางมาได้ผ่านไปหมดแล้ว จึงให้รถที่หยุดรอตามป้ายนี้เคลื่อนไปได้</item>
+        <item>ห้ามมิให้ขับรถแซงขึ้นหน้ารถคันอื่นในเขตทางที่ติดตั้งป้าย</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</item>
+        <item>ให้ผู้ขับรถหยุดรถที่ป้ายนี้ เพื่อให้เจ้าหน้าที่ตรวจและเคลื่อนรถต่อไปได้เมื่อได้รับอนุญาตจากเจ้าหน้าที่ผู้ตรวจแล้วเท่านั้น</item>
+        <item>ห้ามมิให้ผู้ขับรถทุกชนิดใช้ความเร็วเกินกว่าที่กำหนดเป็นกิโลเมตรต่อชั่วโมง ตามจำนวนตัวเลขในแผ่นป้ายนั้นๆ ในเขตทางที่ติดตั้งป้าย จนกว่าจะพ้นที่สุดระยะที่จำกัดความเร็วนั้น</item>
+        <item>ห้ามมิให้รถทุกชนิดที่มีขนาดกว้างเกินกำหนดเป็น "เมตร" ตามจำนวนเลขในเครื่องหมายนั้น เข้าไปในเขตทางที่ติดตั้งป้าย</item>
+        <item>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</item>
+
+    </string-array>
+
+</resources>
